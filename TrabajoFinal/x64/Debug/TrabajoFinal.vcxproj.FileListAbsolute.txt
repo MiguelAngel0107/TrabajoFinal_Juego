@@ -1,0 +1,6 @@
+C:\Users\Miguel\source\repos\TrabajoFinal\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\TrabajoFinal\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\source\repos\TrabajoFinal\TrabajoFinal\x64\Debug\TrabajoFinal.MyForm.resources
+C:\Users\Miguel\source\repos\TrabajoFinal\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\TrabajoFinal\TrabajoFinal\x64\Debug\TrabajoFinal.Inicio.resources
+C:\Users\Miguel\source\repos\TrabajoFinal\TrabajoFinal\x64\Debug\TrabajoFinal.Nivel2.resources
